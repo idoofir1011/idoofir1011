@@ -19,7 +19,7 @@ What I'm doing:
 
 🛠️ Building a file-based database to master data serialization.
 
-- 🏢 Role: CS student @ [Your company]
+- 🏢 Role: CS student 
 - 🌍 Based in: Tel Aviv, Israel
 - 🧠 Currently mastering: [![My Skills](https://skillicons.dev/icons?i=ts,python,fastapi,postgresql,githubactions,docker,pandas,git,github,vscode,postman)](https://skillicons.dev)
 - 💬 Let's talk about: creative coding, design systems, side projects
@@ -43,7 +43,7 @@ What I'm doing:
 ## 🧠 Tech Stack
 <div align="center">
 {{#each skills}}
-<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/[Your this]/[Your this]-original.svg"/>
+<img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/[Your this]/[Your this]-original.svg"/>
 {{/each}}
 </div>
 
