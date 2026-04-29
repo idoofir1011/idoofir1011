@@ -1,6 +1,6 @@
 ---
 
-# ido ofir levy's Creative Developer Space
+# Ido's Creative Developer Space
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6F91&width=435&lines=Hi+I'm+ido ofir levy+💻;Creative+Dev+%26+Builder+%F0%9F%9A%80;Lover+of+Clean+Code+and+Good+Coffee+%E2%98%95%EF%B8%8F" />
